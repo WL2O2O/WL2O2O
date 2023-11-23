@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true)
+![WL2O2O's GitHub stats](https://github-readme-stats.vercel.app/api?username=WL2O2O&show_icons=true)
 
 
 <!--
