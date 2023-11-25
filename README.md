@@ -4,6 +4,11 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![WL2O2O's GitHub stats](https://github-readme-stats.vercel.app/api?username=WL2O2O&show_icons=true)
