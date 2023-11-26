@@ -6,7 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+EJS          20 mins         ████████████▓░░░░░░░░░░░░   50.26 %
+YAML         9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+TypeScript   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Java         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+Vue.js       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
