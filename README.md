@@ -15,7 +15,7 @@ SQL          8 mins          █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![WL2O2O's GitHub stats](https://github-readme-stats.vercel.app/api?username=WL2O2O&show_icons=true)
+![WL2O2O's GitHub stats](https://github-readme-stats.vercel.app/api?username=itwanger&show_icons=true)
 
 
 <!--
