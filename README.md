@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown    1 hr 17 mins    █████████████████████████   99.96 %
-Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
