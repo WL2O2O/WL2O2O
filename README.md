@@ -6,10 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java       0 secs          ███████████░░░░░░░░░░░░░░   44.63 %
-Markdown   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.37 %
-YAML       0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-XML        0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
