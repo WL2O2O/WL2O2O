@@ -6,9 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown    4 hrs 13 mins   ████████████▓░░░░░░░░░░░░   51.25 %
-Java        3 hrs 54 mins   ███████████▓░░░░░░░░░░░░░   47.33 %
-Batchfile   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Java          3 hrs 18 mins   █████████████░░░░░░░░░░░░   52.44 %
+Markdown      2 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.15 %
+JavaScript    44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+Batchfile     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
