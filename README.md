@@ -6,7 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown         29 mins         ████████▒░░░░░░░░░░░░░░░░   33.56 %
+YAML             21 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
+Java             19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
+XML              8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Vue.js           4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
 ```
 
 <!--END_SECTION:waka-->
