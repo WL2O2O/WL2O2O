@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   2 hrs 33 mins   ███████████████████▒░░░░░   77.07 %
-JSON                       33 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
-TypeScript                 7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Nginx configuration file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Docker                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Markdown                   3 hrs 30 mins   ████████████████████▒░░░░   80.89 %
+JSON                       33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+TypeScript                 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Other                      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Nginx configuration file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
