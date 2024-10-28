@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   41 mins         █████████████████████████   99.70 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Markdown   35 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
