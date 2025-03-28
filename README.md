@@ -6,7 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 8 mins    █████████████████████████   99.98 %
+Markdown     2 hrs 29 mins   ████████████████████▓░░░░   82.91 %
+HTML         30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
