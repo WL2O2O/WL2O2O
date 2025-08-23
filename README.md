@@ -6,9 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   2 hrs 51 mins   ███████████████████▓░░░░░   78.71 %
-XML                        40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
-Nginx configuration file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Markdown                   2 hrs 51 mins   █████████████████████░░░░   84.42 %
+XML                        25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Nginx configuration file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
