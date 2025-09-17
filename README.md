@@ -6,10 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   1 hr 27 mins    ██████████████████████▓░░   91.23 %
-SQL                        6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Nginx configuration file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown                   1 hr 48 mins    ███████████████████████░░   92.57 %
+SQL                        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Nginx configuration file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+YAML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
