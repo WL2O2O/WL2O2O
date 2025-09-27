@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       53 mins         ████████████████████████▓   98.07 %
-Nginx configuration file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Markdown                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Java   1 hr 53 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
